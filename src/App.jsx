@@ -659,7 +659,6 @@ minHeight:“100vh”, color:”#fff”, maxWidth:430, margin:“0 auto”, posi
         <button onClick={function() {
           
           window.location.href = "https://buy.stripe.com/9B628tddM78CcoE1Vlgw008";
-          showToast("Welcome to Pro! 2× cashback is live 🚀");
         }} style={{ width:"100%", background:"linear-gradient(135deg,#c9a84c,#f5d78e)",
           color:"#000", border:"none", borderRadius:16,
           padding:"16px", fontWeight:900, fontSize:16, cursor:"pointer" }}>
